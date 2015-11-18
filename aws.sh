@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 DEPLOY_ENV=${DEPLOY_ENV:-smashmouth}
 TARGET=${TARGET:-aws}
